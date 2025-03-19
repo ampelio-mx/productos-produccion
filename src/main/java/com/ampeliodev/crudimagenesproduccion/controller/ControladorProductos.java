@@ -16,7 +16,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/api/productos")
 @Slf4j
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://soft-dev-mx.com")
 
 public class ControladorProductos {
 
